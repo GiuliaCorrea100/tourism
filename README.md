@@ -1,2 +1,2 @@
  <p>Web site tourism </p>
- <p>This site was make using Bootstrap</p>
+ <p>Testing my abilities using bootstrap </p>
